@@ -1,0 +1,5 @@
+streamlit
+google-api-python-client
+yt-dlp
+pydub
+python-dotenv
